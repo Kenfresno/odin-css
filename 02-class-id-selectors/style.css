@@ -1,0 +1,21 @@
+p,
+.cooler-p {
+    background-color: rgb(242, 131, 183);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.cooler-p {
+    font-size: 24px;
+}
+
+
+div {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourthelement {
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+    background-color: lightgreen;
+}
